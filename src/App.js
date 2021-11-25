@@ -3,7 +3,6 @@ import { Routes, Route } from 'react-router-dom';
 import EmployeesList from './components/EmployeesList';
 import AddEmployee from './components/AddEmployee';
 import NotFound from './components/NotFound';
-import 'bootstrap/dist/css/bootstrap.css';
 
 function App() {
 	return (
